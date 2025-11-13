@@ -4,4 +4,10 @@
 
 The last version of this board used the wrong LDO, and used a 4 layer PCB. This time, I designed it in 2 layers, and swapped the second LED for an RGB LED.
 
+### PCB:
 ![](images/image.png)
+![](images/image1.png)
+![](images/image2.png)
+
+### Firmware:
+https://circuitpython.org/board/raspberry_pi_pico/
