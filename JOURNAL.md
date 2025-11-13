@@ -1,45 +1,44 @@
 
-clarification for my first journal
+
+# clarification for my first journal
+0.1 hr(s)
 
 i just looked back at my first journal and realized its pretty unclear, i completely redid the layout, and reoriented every component, the board also got smaller.
-image
 
-TheTridentGuy TheTridentGuy 🚀 submitted rp-nano v2 for review 13 minutes ago
+![](images/image7.png)
 
-TheTridentGuy TheTridentGuy 🚀 added to the journal 19 minutes ago (0.8 hours)
-made final changes, and got everything ready for review
+# made final changes, and got everything ready for review
+0.8 hr(s)
 
 I made some final tweaks to the design, checked it on jlcpcb again, put together a bom, exported pcb filles, made a readme, added screenshots, etc....
 
-image
+![](images/image7.png)
 
-TheTridentGuy TheTridentGuy 🚀 added to the journal 1 day ago (0.2 hours)
-checked price on jlcpcb
+# checked price on jlcpcb:
+0.2 hr(s)
 
 Checked the price on jlcpcb, and if i sacrifice doing a 2mm thick board, i can get the pcbs for ~$95 (shipping was almosat twice the price of the pcbs and assembly)
 
-image
+![](images/image6.png)
 
-TheTridentGuy TheTridentGuy 🚀 added to the journal 1 day ago (1.5 hours)
-finish first version of routing
+# finish first version of routing:
+1.5 hr(s)
 
 finally finished the routing, its all on two layers now, i think there might be some optimizations i can make, and my power wiring is a little janky, im also gonna see how much it costs
 
-image
+![](images/image5.png)
 
-
-hmm
-
-TheTridentGuy TheTridentGuy 🚀 added to the journal 1 day ago (0.5 hours)
-more routing
+# more routing:
+0.5 hr(s)
 
 made solid progress on routing important stuff, now i just gotta do power and ground routing ,and then cleanup all my routing again. im praying jlc doesnt get mad at me for my extremely close components
-image
 
-TheTridentGuy TheTridentGuy 🚀 added to the journal 1 day ago (3.0 hours)
-working on routing
+![](images/image4.png)
+
+# working on routing:
+3.0 hr(s)
 
 I cleaned up the project, unrouted everything, switched to two layers, swapped out the faulty LDO, and spent the last two hours laying out and routing.
 
-image
+![](images/image3.png)
 
