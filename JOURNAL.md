@@ -1,4 +1,4 @@
-
+total time: 6.1 hr(s)
 
 # clarification for my first journal
 0.1 hr(s)
