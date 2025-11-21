@@ -1,3 +1,4 @@
+# 13.5 total hours
 # (0.5 hours) Minor PCB changes and quote from JLCPCB
 
 I made some minor changes to the power routing on my PCB, and got a quote from JLCPCB, and got all the files ready to submit, ill toss them in a repo, hoping to get this submitted tonight.
