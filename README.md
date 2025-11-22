@@ -15,3 +15,8 @@ The last version of this board used the wrong LDO, and used a 4 layer PCB. This 
 
 ### Firmware:
 https://circuitpython.org/board/raspberry_pi_pico/
+
+### BOM:
+**Item**|**Qty**|**Price each**|**Item total**|**Running total**
+:-----:|:-----:|:-----:|:-----:|:-----:
+PCBs (5xPCB 2xAssembly)|1|$55|$55|$55
